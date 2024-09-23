@@ -1,1 +1,1 @@
-# FSI---IBM
+In this project I used Immersed boundary method to anlayse Fluid Structure Interaction. It works by considering the fluid domain as Eulerian mesh and The structure as Lagrangian. In the background this method solves Navier stokes and Force equations to solve for the final stable positions of the structure interacting with the Fluid.# FSI---IBM
